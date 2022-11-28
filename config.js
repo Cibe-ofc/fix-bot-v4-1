@@ -58,24 +58,24 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '083105060798' //dana
-global.povo = '082214729677' //ovo
-global.pgopay = '083105060798' //gopay
-global.plinkaja = '083105060798' //link aja
-global.ppulsa = '082214729677' //telkomsel
-global.ppulsa2 = '083105060798' // kalau ada kartu lain isi aja
+global.pdana = '087833306677' //dana
+global.povo = '-' //ovo
+global.pgopay = '-' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '087833306677' //xl
+global.ppulsa2 = '0895351308611' // tri
 global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727742'
-global.nomorown = '6282214729677'
-global.namebot = 'KaylaBotz'
-global.nameown = 'PUTRAMODZ404X9INVISIBLE'
+global.nomorbot = '62895351308611'
+global.nomorown = '6287833306677'
+global.namebot = 'Fahi Botz'
+global.nameown = 'Fahil'
 
 /*============== Github Thanks To ==============*/
-global.namagithub ='Lucife-Putra' //
+global.namagithub ='amelcanss' //
 
-global.linkgithub = 'https://github.com//Lucife-Putra' // tarok link github lu
+global.linkgithub = 'https://github.com//amelcanss' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -86,8 +86,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677', 'PUTRAMODZ404X9INVISIBLE', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6287833306677', 'Fahil', true],
+  ['6287743906733', 'Dimas', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -139,14 +139,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 KAYLABOTZ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘PUTRAMODZ404X9INVISIBLE˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ KAYLABOTZ'
+global.wm = '                「 Fahil Botz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fahil Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Fahil Botz'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By PUTRAMODZ404X9INVISIBLE`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 KAYLABOTZ あ」'
+global.author = '                「 Fahil Botz あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
