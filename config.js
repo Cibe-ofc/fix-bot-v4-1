@@ -67,7 +67,7 @@ global.ppulsa2 = '0895351308611' // tri
 global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895351308611'
+global.nomorbot = '6287852161042'
 global.nomorown = '6287833306677'
 global.namebot = 'Fahi Botz'
 global.nameown = 'Fahil'
