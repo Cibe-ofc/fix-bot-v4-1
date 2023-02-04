@@ -49,28 +49,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_pahilz26' // ig
+global.sig = 'https://instagram.com/lynxofcid' // ig
 global.sgh = 'https://github.com/amelcanss/' // github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677' //dana
+global.pdana = 'chatowner' //dana
 global.povo = '-' //ovo
 global.pgopay = '-' //gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '087833306677' //xl
-global.ppulsa2 = '0895351308611' // tri
+global.ppulsa = 'chatowner' //xl
+global.ppulsa2 = 'chatowner' // tri
 global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287852161042'
-global.nomorown = '6287833306677'
-global.namebot = 'Fahi Botz'
-global.nameown = 'Fahil'
+global.nomorbot = '6285797375014'
+global.nomorown = '13804446922'
+global.namebot = 'Ikybot'
+global.nameown = 'itsmeiky'
 
 /*============== Github Thanks To ==============*/
 global.namagithub ='amelcanss' //
@@ -86,8 +86,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', 'Fahil', true],
-  ['6287743906733', 'Dimas', true],
+  ['6285797375014', 'Ikybot', true],
+  ['13804446922', 'Kyky', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -139,14 +139,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Fahil Botz 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fahil Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Fahil Botz'
+global.wm = '                「 ɪᴋʏ ʙᴏᴛᴢ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ɪᴋʏ ʙᴏᴛᴢ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ɪᴋʏ ʙᴏᴛᴢ'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By PUTRAMODZ404X9INVISIBLE`
+global.titlebot = `⫹⫺ WhatsApp Bot | By INVISIBLE`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 Fahil Botz あ」'
+global.author = '                「 ɪᴋʏ ʙᴏᴛᴢあ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -637,8 +637,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'By Fahil'
-global.stickauth = `Ig : @_pahilz26`
+global.stickpack = 'ʙʏ ɪᴋʏ'
+global.stickauth = `Ig : @lynxofcid`
 
 global.multiplier = 38 // The higher, The harder levelup
 
